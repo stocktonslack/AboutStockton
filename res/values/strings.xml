@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">AboutStockton</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="AboutStockton">This app is all about Stockton</string>
+    <string name="yoyos">Click here for yoyo\'s</string>
+    <string name="title_activity_yoyo">YoyoActivity</string>
+    <string name="home">Home</string>
+    <string name="yoyoish">Yoyo\'s</string>
+
+</resources>
